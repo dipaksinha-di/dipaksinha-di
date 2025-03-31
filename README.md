@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **react, nextjs**
 
-- ⚡ Fun fact **I am music lover, traveller**
+- ⚡ **I am music lover, traveller**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
